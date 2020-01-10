@@ -33,12 +33,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BoxedAppSDK.Managed">
-      <HintPath>..\..\BoxedApp\bin\BoxedAppSDK.Managed.dll</HintPath>
+      <HintPath>..\..\..\BoxedApp\bin\BoxedAppSDK.Managed.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.SQLite">
-      <HintPath>..\..\System.Data.SQLite.dll\System.Data.SQLite.dll</HintPath>
+      <HintPath>..\..\..\System.Data.SQLite.dll\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
